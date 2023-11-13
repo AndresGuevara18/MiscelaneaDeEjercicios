@@ -1,6 +1,6 @@
 # MISCELÁNEA DE EJERCICIOS JAVA 
 - Ejecución de 8 ejercicios. 
-- ### 1) CALCULAR EL ÁREA DE UN TRIÁNGULO 
+### 1) CALCULAR EL ÁREA DE UN TRIÁNGULO 
 - Se le pedirá al usuario ingresar dos valores el primero será la base del triángulo y la altura del triángulo. 
 - y se calculara el área del triángulo 
 ### 2) INGRESAR DOS NÚMEROS POR LA CONSOLA Y SUMARLOS 
