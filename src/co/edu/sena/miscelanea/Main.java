@@ -31,7 +31,7 @@ public class Main {
         System.out.println("3) INGRESAR UN NÚMERO Y VISUALIZAR EL NÚMERO ELEVADO AL CUADRADO.");
         System.out.println("Ingresa el número:");
         number1 = src.nextDouble();
-        System.out.println("El cuadrado del número "+number1+" es = "+exercises.SquareNumber(number1));
+        System.out.println("El cuadrado del número "+number1+" es = "+exercises.SquareNumberAndArea(number1));
         System.out.println("\n**************************************\n");
 
         System.out.println("4) ESCRIBIR UN PROGRAMA QUE CONVIERTA DE EUROS A DÓLARES.");
@@ -43,7 +43,7 @@ public class Main {
         System.out.println("5) ESCRIBIR UN PROGRAMA QUE PIDA EL LADO DE UN CUADRADO Y CALCULE EL VALOR DEL ÁREA Y DEL PERÍMETRO.");
         System.out.println("Ingresa el lado del cuadrado:");
         number1 = src.nextDouble();
-        System.out.println("El área del cuadrado es: "+exercises.SquareArea(number1));
+        System.out.println("El área del cuadrado es: "+exercises.SquareNumberAndArea(number1));
         System.out.println("El perímetro del cuadrado es: "+exercises.SquarePerimeter(number1));
         System.out.println("\n**************************************\n");
 
