@@ -50,7 +50,7 @@ public class Main {
         System.out.println("6) ESCRIBIR UN PROGRAMA QUE DETERMINE EL ÁREA Y EL VOLÚMEN DE UN CILINDRO.");
         System.out.println("Ingresa el radio de la base del cilindro (cm)");
         number1 = src.nextDouble();
-        System.out.println("Ingresa el altura de la base del cilindro (cm)");
+        System.out.println("Ingresa la altura de la base del cilindro (cm)");
         number2 = src.nextDouble();
         System.out.println("El área del cilindro es: "+exercises.CylinderArea(number1,number2)+" cm².");
         System.out.println("El volumen del cilindro es: "+exercises.CylinderVolume(number1,number2)+" cm³.");
